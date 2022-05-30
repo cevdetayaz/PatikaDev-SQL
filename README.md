@@ -3,6 +3,8 @@ SQL eğitimdeki ödevleri yapıp yüklediğim repo.
 
 Yazılım Uzmanı Gürcan Çekiç'in mükemmel anlatımıyla verdiği bu eğitimden çok memnun kaldım. Kendisine buradan teşekkür ederim.
 
+[Patika SQL eğitim adresi](https://app.patika.dev/courses/sql)
+
 Eğitmenin [Youtube](https://www.youtube.com/c/ArinYazilim/about)  ve [Linkedin](https://www.linkedin.com/in/g%C3%BCrcan-%C3%A7eki%C3%A7-7a686611a/) adresleri.
 
 **- SQL Nedir?**
